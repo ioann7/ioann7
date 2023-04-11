@@ -2,7 +2,7 @@
 - 💜 I enjoy 💻coding, 📕books, [🧠algorithms](https://leetcode.com/ioann7/) and [🎮counter-strike](https://www.faceit.com/ru/players/chakchakk)
 - ⭐️ Python, REST API, Django ORM, Django REST Framework, SQL, PostgreSQL, TDD, Unittest
 - 🐳 GIT, Docker, Docker-Compose, Celery, Redis, Linux, GitHub Actions, NGINX, WSGI Gunicorn
-- 📫 How to reach me: https://t.me/ioannchimrov7
+- 📫 How to reach me: [Telegram](https://t.me/ioannchimrov7) or ioannchimrov@yandex.com
 
 <!--
 **ioann7/ioann7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
