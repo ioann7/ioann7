@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m Ioann Chimrov, Python backend-developer
+- 💜 I enjoy 💻coding, 📕books, <a href="https://leetcode.com/ioann7/">🧠algorithms</a> and <a href="https://www.faceit.com/ru/players/chakchakk/">🎮counter-strike</a>
+- ⭐️ Python, REST API, Django ORM, Django REST Framework, SQL, PostgreSQL, TDD, Unittest
+- 🐳 GIT, Docker, Docker-Compose, Celery, Redis, Linux, GitHub Actions, NGINX, WSGI Gunicorn
+- 📫 How to reach me: https://t.me/ioannchimrov7
 
 <!--
 **ioann7/ioann7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
