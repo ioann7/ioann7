@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ioann Chimrov, Python backend-developer
-- 💜 I enjoy 💻coding, 📕books, <a href="https://leetcode.com/ioann7/">🧠algorithms</a> and <a href="https://www.faceit.com/ru/players/chakchakk/">🎮counter-strike</a>
+- 💜 I enjoy 💻coding, 📕books, [🧠algorithms](https://leetcode.com/ioann7/) and [🎮counter-strike](https://www.faceit.com/ru/players/chakchakk)
 - ⭐️ Python, REST API, Django ORM, Django REST Framework, SQL, PostgreSQL, TDD, Unittest
 - 🐳 GIT, Docker, Docker-Compose, Celery, Redis, Linux, GitHub Actions, NGINX, WSGI Gunicorn
 - 📫 How to reach me: https://t.me/ioannchimrov7
