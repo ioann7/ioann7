@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ioann Chimrov, Python backend-developer
+- 👋 Hi, I’m Ioann Chimrov, Python backend-developer at Yandex
 - 💜 I enjoy 💻coding, 📕books, [🧠algorithms](https://leetcode.com/ioann7/) and [🎮counter-strike](https://www.faceit.com/ru/players/chakchakk)
 - ⭐️ Python, Django, Django ORM, Django REST Framework, SQL, PostgreSQL, TDD, Unittest
 - 🐳 GIT, Docker, Docker-Compose, Linux, GitHub Actions, NGINX, WSGI Gunicorn
